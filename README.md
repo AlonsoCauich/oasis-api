@@ -29,7 +29,7 @@ php artisan migrate:fresh --seed
 | - | - | - |
 | {hotel} | 1 | Id del hotel, en este caso de Grand Oasis Cancún |
 | {categoria} | 2 | Id de la categoría, significa Restaurantes |
-| {categoria} | 3 | Id de la categoría, significa Restaurantes |
+| {categoria} | 3 | Id de la categoría, significa Bares |
 | {centro} | 1 | Id del centro de consumo, toda la información de BENAZUZA |
 
 
